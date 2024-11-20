@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DroneSimulator</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="mapbox_access_token" translatable="false">pk.eyJ1Ijoidml0b3JpemtpIiwiYSI6ImNsenJvb2pjaTBuaG4ycnB3YTVueWYyZXIifQ.ypv0O6yhY_cyhupUnEz_ag</string>
+
+    <string name="drone_data">
+        Ketinggian Maksimal: 6000 meter
+        &#10;Kapasitas Baterai: 6000 mAh
+        &#10;Status Baterai: 75%%
+        &#10;Sudut Kamera: 90 derajat
+    </string>
+
+</resources>
